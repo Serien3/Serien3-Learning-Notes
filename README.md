@@ -6,7 +6,7 @@
 
 🔥表示当前主要学习该课程，笔记正在更新中
 
-[ 更新可能会在 Notion 文档中进行，因此不一定会反映在 Commit History 中 ]
+【 更新可能会在 Notion 文档中进行，因此不一定会反映在 Commit History 中 】
 
 ## Computer Theory
 
