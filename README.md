@@ -18,7 +18,7 @@
 
 ### Software Engineering
 
-- **软件构造** [[Notion]](https://forested-star-e84.notion.site/31f06d77cd2f805aa086e3f065795e27?source=copy_link) ：HIT 软件工程专业的必修课，课程内容源于 MIT 的 [6.031: Software Construction](https://web.mit.edu/6.031/www/sp21/) ，编程语言以 Java 为主（MIT 的最新版本已经将编程语言更换为 JavaScript ），涵盖软件构造生命周期，软件测试，ADT设计与面向对象编程，设计模式等软件开发技术与经验，对 AI-native 时代的软件开发也许有一些价值。
+- **软件构造** [[Notion]](https://forested-star-e84.notion.site/31f06d77cd2f805aa086e3f065795e27?source=copy_link) ：HIT 软件工程专业的必修课，课程内容源于 MIT 的 [6.031: Software Construction](https://web.mit.edu/6.031/www/sp21/) ，编程语言以 Java 为主，涵盖软件构造生命周期，软件测试，ADT设计与面向对象编程，设计模式等软件开发技术与思想。
 
 ### Computer System
 - 🔥 **并行计算 (Stanford CS149)** [[Notion]](https://forested-star-e84.notion.site/37306d77cd2f802f80b5e429333f1f34?source=copy_link) ：Stanford CS149 并行计算（[CS149](https://gfxcourses.stanford.edu/cs149/fall25)）课程，深入讲解现代并行计算系统设计的基本原理和工程权衡，并教授有效利用这些机器所需的并行编程技术；由于编写优秀的并行程序需要了解关键的机器性能特征，本课程还涵盖并行硬件和软件设计。
